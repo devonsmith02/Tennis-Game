@@ -1,2 +1,4 @@
 # Tennis-Game
-A tennis game developed in javascript for one player.
+A tennis virtual game developed in javascript for one player.
+Easy to play.
+# No encapsulation in education.
